@@ -19,3 +19,5 @@ This folder is primarily utilizing the most basic skills of the hypertext markup
 This section is a simple exercise in making an html built resume page. While, I have made a project in React a few weeks ago, I can still appreciate the simplicity and conciseness of content here. 
 
 The point of the Capstone project is so that I can utilize knowledge from the lesson. There is no solution, so it is based off of my own creativity from the foundation of my knowledge. We were strictly to use HTML and nothing else.
+
+![My Resume](./html/capstone_resume/images/myresume.gif)
