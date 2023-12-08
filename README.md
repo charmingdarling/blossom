@@ -2,7 +2,7 @@
 
 # Description
 
-This repo is to help me review my skills that I have done in my coding Bootcamp by continuing to use the code. I'm finally getting time to go through the Udemy courses that I purchased and it is surprising how much I understood compared to 6 months ago. I'm able to breeze through the assignments quickly. 
+This repo is to help me review my skills that I have done in my coding Bootcamp by continuing to use the code. I'm finally getting time to go through the Angela Yu - Web Development Udemy courses that I purchased. It is surprising how much I understood compared to 6 months ago. I'm able to breeze through the assignments quickly. 
 
 Previously, I was just deleting my repos as I practiced each section, but now I have decided to post them to give myself a visual aid and prove to my future self that one finished program always starts with the first clack of the keyboard somewhere.
 
